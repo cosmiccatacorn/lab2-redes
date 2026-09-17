@@ -1,1 +1,1 @@
-# lab2-redes
+# Lab #2 Redes y Comunicación de datos
